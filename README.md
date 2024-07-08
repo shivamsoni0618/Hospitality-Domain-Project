@@ -1,7 +1,9 @@
 # Hospitality-Domain-Project
 To develop a comprehensive dashboard that offers deep insights into AtliQ Grand hospitality brand, and hence reviewing with stakeholders to take the data driven decision.
+
 ##**Intro -**
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+
 ##**Objective-**
 The objective of this project is to create a comprehensive Power BI dashboard that will enable stakeholders at AtliQ Grands to make informed, data-driven decisions.
 
